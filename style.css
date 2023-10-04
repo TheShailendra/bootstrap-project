@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ 
+font-family: 'Poppins', sans-serif;
+}
+.carousel-item img{
+    width: 100%;
+    height: 90vh;
+}
+.about_image{
+     min-width: 100%;
+     max-width: 945px;
+}
+.container{
+    justify-content: space-around;
+    justify-content: center;
+    display: flex;
+}
+.section{
+    background-color: #82c6df;
+}
